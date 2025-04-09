@@ -3,9 +3,8 @@
 
 Solution to the error:
 
-```
-Some formula symbols might not be displayed correctly due to missing fonts Symbol, Wingdings, Wingdings 2, Wingdings 3, MT Extra.
-```
+> Some formula symbols might not be displayed correctly due to missing fonts Symbol, Wingdings, Wingdings 2, Wingdings 3, MT Extra.
+
 
 Note this is for linux system
 
